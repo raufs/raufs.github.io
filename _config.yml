@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
 
 title: Rauf Salamzade
-description: Microbiology graduate student at UW Madison. test1
+description: Microbiology graduate student at UW Madison. test2
 
-social_links:
-   twitter: https://twitter.com/salamzader
-   github:  raufs
-   linkedin: rauf-salamzade-7992a534
+social-network-links:
+  twitter: salamzader
+  github:  raufs
+  linkedin: rauf-salamzade-7992a534
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
