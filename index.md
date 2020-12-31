@@ -15,12 +15,12 @@ Research Assistant
 
 Supervisor: Dr. Lindsay Kalan
 
-### **The Broad Institute - Bacterial Genomics Group**
+### **The Broad Institute - Earl Bacterial Genomics Group**
 Associate Computational Biologist - _Aug. 2017 - Aug. 2020_
 
 Supervisors: Dr. Ashlee Earl, Dr. Abigail Manson
 
-### **Bayer CropScience, Biologics R&D - Functional Genomics and DataScience Group**
+### **Bayer CropScience, Biologics R&D - Functional Genomics and Data Science Group**
 Bioinformatics Specialist - _Dec. 2014 - Aug. 2017_
 
 Supervisors: Dr. Dilara Ally, Dr. Punita Juneja
