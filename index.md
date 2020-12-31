@@ -1,35 +1,8 @@
-Welcome, I am a doctorate student at the University of Wisconsin, Madison in the Microbiology Doctoral Training Program. 
+Welcome, I am a microbiology doctoral student at the UW-Madison and interested in exploring microbial ecology and evolution principles using 'omics technologies/analyses.
 
-My research interests include microbial ecology & evolution, and 'omics analysis.
+## Education
 
-### Markdown
+- _**University of Wisconsin, Madison**_ - Microbial Doctoral Training Program - Aug. 2020 - Present
+- _**University of California, Santa Cruz**_ - Bachelor of Science in Bioinformatics w. minor in Computer Science - Sep. 2009 - Jun. 2014
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raufs/raufs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Experience
