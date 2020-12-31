@@ -10,6 +10,10 @@ Bachelor of Science in Bioinformatics w. minor in Computer Science - _Sep. 2009 
 
 # Research Experience
 
+### UW, Madison - Kalan Research Group
+Research Assistant
+Supervisor: Dr. Lindsay Kalan
+
 ### The Broad Institute - Bacterial Genomics Group
 Associate Computational Biologist - _Aug. 2017 - Aug. 2020_
 Supervisors: Dr. Ashlee Earl, Dr. Abigail Manson
@@ -20,9 +24,9 @@ Supervisors: Dr. Dilara Ally, Dr. Punita Juneja
 
 ### Berkeley Lab / UC-Berkeley - Arkin Research Group 
 Software Engieer / Bioinformatics Research Assistant - _Nov. 2014 - Apr. 2016_
-Supervisors: Dr. Marcin Joachimiak
+Supervisors: Dr. Marcin Joachimiak, Dr. Adam Arkin
 
-### UC Santa Cruz - Paleogenomics Lab 
+### UC, Santa Cruz - Paleogenomics Lab 
 Undergraduate Researcher - _May. 2012 - Aug. 2014_
 Supervisors: Dr. James Cahill, Dr. Richard Green, Dr. Beth Shapiro
 
