@@ -10,7 +10,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: salamzader
+    twitter: https://twitter.com/salamzader
     github:  raufs
     linkedin: rauf-salamzade-7992a534
 
