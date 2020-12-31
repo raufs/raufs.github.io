@@ -1,8 +1,6 @@
-## Website
+Welcome, I am a doctorate student at the University of Wisconsin, Madison in the Microbiology Doctoral Training Program. 
 
-You can use the [editor on GitHub](https://github.com/raufs/raufs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include microbial ecology & evolution, and 'omics analysis.
 
 ### Markdown
 
