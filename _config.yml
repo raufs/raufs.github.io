@@ -12,7 +12,7 @@ linkedin_username: rauf-salamzade-7992a534
 # - about.md
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
  - jekyll-feed
